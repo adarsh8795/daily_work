@@ -1,0 +1,19 @@
+.footer-main {
+    font-family: 'Poppins';
+}
+
+#subscribe-button {
+    display: flex;
+    border: 1px solid white;
+    justify-content: center;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+h6 {
+    font-weight: 700;
+    font-size: 1rem;
+}

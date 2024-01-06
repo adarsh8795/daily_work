@@ -1,0 +1,35 @@
+.main-head{
+}
+
+.main-inner-1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px 0 20px;
+}
+
+.main-inner-1 h4{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.rec-select{
+    outline: none;
+    width: 9rem;
+    border: none;
+    font-weight: 500;
+}
+
+.sidebar-filter{
+    padding: 0 10px 5px;
+}
+
+.sidebar-filter p, label{
+    font-weight: 700;
+}
+
+.custom-checkbox{
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 10px;
+}
